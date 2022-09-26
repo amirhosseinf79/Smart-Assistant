@@ -1,0 +1,17 @@
+{
+    "app": {
+        "suggest_system": {
+            "movie": {
+                "rating": "5",
+                "start_year": "1980",
+                "language": "english"
+            }
+        }
+    },
+    "path": {
+        "media": [],
+        "player": "",
+        "downloader": ""
+    },
+    "reminders": []
+}
